@@ -79,6 +79,8 @@ Overall the community and authorities are trying to address the situation throug
 
 <div style="border-bottom: 1px solid #000; margin: 20px 0;"></div>
 
+<embed type="text/html" src="/larceny_theft_map.html" width="1000" height="700">
+
 ### Contribution
 
 We have worked together when making the whole assignment and thereby we say that we have worked equally on this.
