@@ -79,7 +79,11 @@ Overall the community and authorities are trying to address the situation throug
 
 <div style="border-bottom: 1px solid #000; margin: 20px 0;"></div>
 
-<embed type="text/html" src="/larceny_theft_map.html" width="1000" height="700">
+<embed type="text/html" src="/GEOMap.html" width="1000" height="700">
+<embed type="text/html" src="/interactive:barchart1" width="1000" height="700">
+<embed type="text/html" src="/interactive:barchart2" width="1000" height="700">
+<embed type="text/html" src="/interactive:barchart3" width="1000" height="700">
+<embed type="text/html" src="/interactive:barchart4" width="1000" height="700">
 
 ### Contribution
 
