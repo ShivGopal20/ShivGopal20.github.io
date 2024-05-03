@@ -78,12 +78,43 @@ Overall the community and authorities are trying to address the situation throug
 
 
 <div style="border-bottom: 1px solid #000; margin: 20px 0;"></div>
-<img src="simple_barchart.png" width="1000" height="700">
-<embed type="text/html" src="/GEOMap.html" width="1000" height="700">
-<embed type="text/html" src="/Interactive_barchart1.html" width="1000" height="700">
-<embed type="text/html" src="/Interactive_barchart2.html" width="1000" height="700">
+
 <embed type="text/html" src="/Interactive_barchart3.html" width="1000" height="700">
 <embed type="text/html" src="/Interactive_barchart4.html" width="1000" height="700">
+
+# Are holidays in San Fracisco becoming better?
+
+**Authors:** Rohan Khalid and Shiv Gopal
+
+### Larcency theft in the holiday season
+Intro 
+
+<img src="simple_barchart.png">
+
+What the mayor has done
+
+### What is going on with Larcency Theft in SF?
+Snakke om district niveau
+
+Kort
+<embed type="text/html" src="/GEOMap.html" width="1000" height="700">
+
+Tydeliggøre specifikke fund fra kort
+<embed type="text/html" src="/Interactive_barchart1.html" width="1000" height="700">
+
+Ikke kun i højtiderne
+<embed type="text/html" src="/Interactive_barchart2.html" width="1000" height="700">
+
+### It is not just larcency theft
+
+Other crime types in the holidays
+<embed type="text/html" src="/Interactive_barchart3.html" width="1000" height="700">
+
+Other crime types throughout year
+<embed type="text/html" src="/Interactive_barchart4.html" width="1000" height="700">
+
+### Conclusion
+right direction in some districts, could be even better.
 
 ### Contribution
 
