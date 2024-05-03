@@ -80,11 +80,13 @@ Overall the community and authorities are trying to address the situation throug
 <div style="border-bottom: 1px solid #000; margin: 20px 0;"></div>
 
 # Are holidays in San Fracisco becoming better?
-
 **Authors:** Rohan Khalid and Shiv Gopal
 
+Intro short
+
+
 ### Larcency theft in the holiday season
-Intro 
+Introduction
 
 <img src="simple_barchart.png">
 
