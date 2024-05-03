@@ -23,10 +23,7 @@ What the mayor has done
 Snakke om district niveau
 
 Kort
-<div style="overflow-x: visible; width: 100%;">
-  <embed type="text/html" src="/GEOMap.html" style="position: relative; left: -20%; width: 1000px; height: 700px;">
-</div>
-
+<embed type="text/html" src="/GEOMap.html" width="1000" height="700">
 
 Tydeliggøre specifikke fund fra kort
 <embed type="text/html" src="/Interactive_barchart1.html" width="1000" height="700">
