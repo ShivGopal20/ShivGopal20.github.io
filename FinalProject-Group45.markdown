@@ -4,6 +4,7 @@ layout: default
 
 # Are holidays in San Francisco becoming better?
 **Authors:** Rohan Khalid and Shiv Gopal
+
 San Francisco is a city known for many things. This includes The Golden Gate Bridge, the architecture and its hilly terrain. Even though San Francisco is known for its many good qualities, it is also known for crime. The crime happens all year round, but especially at a time when most people are focused on giving, while some people are focused on taking. We are, of course, talking about the holiday season, when larceny and theft are very popular because people leave many of their possessions alone when spending time with their friends and family. Recently, there has been discussion about a decline in larceny/theft during the holiday season. We will now examine whether this is merely political rhetoric or if there is truth to these claims. 
 
 <div style="border-bottom: 1px solid #000; margin: 20px 0;"></div>
