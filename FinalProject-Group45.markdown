@@ -79,9 +79,6 @@ Overall the community and authorities are trying to address the situation throug
 
 <div style="border-bottom: 1px solid #000; margin: 20px 0;"></div>
 
-<embed type="text/html" src="/Interactive_barchart3.html" width="1000" height="700">
-<embed type="text/html" src="/Interactive_barchart4.html" width="1000" height="700">
-
 # Are holidays in San Fracisco becoming better?
 
 **Authors:** Rohan Khalid and Shiv Gopal
