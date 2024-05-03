@@ -24,20 +24,20 @@ This makes sense with our current overall assessment in terms of explaining the 
 <div style="border-bottom: 1px solid #000; margin: 20px 0;"></div>
 
 ### What is really going on with Larcency Theft inside SF?
-In order to get a better understanding of this decrease we need to dig deeper. We can do this by looking at larcency theft from a district perspecive. In the interactive map below 
+In order to get a better understanding of this decrease we need to dig deeper. We can do this by looking at larcency theft from a district perspecive. In the interactive map below. Here it is clear that the pattern mentioned before is quite clear for almost districts with the decrease in 2020 and 2023. However the District: "Central" seems to be quite similar throughout the years. 
 <embed type="text/html" src="/GEOMap.html" width="1000" height="700">
 
-Tydeliggøre specifikke fund fra kort
+Even though it might seem like Central still has the same amount of incidents, this is far from the case which can be seen from this figure showing the same thing but in another way. In the interactive figure below we can see that in fact all districts are significantly lower in terms of number of larcency and theft incidents, even central. This seems to be rather good news.
 <embed type="text/html" src="/Interactive_barchart1.html" width="1000" height="700">
 
-Ikke kun i højtiderne
+The questions is wether or not the reasoning for this the new approach my the SF Gov. A way to check this is to do annual comparisons from 2018 to 2023, without focusing on holidays. This will show us if there generally just has been less larcency theft in 2023 compared to other years or if it really is the holiday season which has changed do to the increased effort by the goverment. In the interactive figure below we can in fact see that 2023 seems a bit better than the previous year but the difference is not even close to the improvement in the holiday period. This shows that it potentially could be the improved effort in the holiday time by the SF Goverment which have cause the decrease in 2023.
 <embed type="text/html" src="/Interactive_barchart2.html" width="1000" height="700">
 
 <div style="border-bottom: 1px solid #000; margin: 20px 0;"></div>
 
 
-### It is not just larcency theft
-
+### Is it only larcency theft?
+If the improved effort has decreases larcency 
 Other crime types in the holidays
 <embed type="text/html" src="/Interactive_barchart3.html" width="1000" height="700">
 
