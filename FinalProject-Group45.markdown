@@ -7,6 +7,7 @@ layout: default
 
 Intro short
 
+<div style="border-bottom: 1px solid #000; margin: 20px 0;"></div>
 
 ### Larcency theft in the holiday season
 Introduction
@@ -23,6 +24,11 @@ Snakke om district niveau
 
 Kort
 <embed type="text/html" src="/GEOMap.html" width="1000" height="700">
+
+<div style="overflow-x: visible; width: 100%;">
+  <embed type="text/html" src="/GEOMap.html" style="position: relative; left: -5%; width: 1000px; height: 700px;">
+</div>
+
 
 Tydeliggøre specifikke fund fra kort
 <embed type="text/html" src="/Interactive_barchart1.html" width="1000" height="700">
