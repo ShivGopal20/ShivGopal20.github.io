@@ -10,19 +10,21 @@ San Francisco is a city known for many things. This includes The Golden Gate Bri
 <div style="border-bottom: 1px solid #000; margin: 20px 0;"></div>
 
 ### Larcency theft in the holiday season
-Introduction
+We can look at the annually reported incidents to get a brief overview of larceny theft in San Francisco. As seen in the figure below, there have been very high numbers of larceny theft incidents from November 20th to December 31st throughout the years until 2023. 2020 is an outlier due to social distancing and people being more home, which decreased many types of crime, including larceny theft. It is clear that the number of incidents suddenly fell in 2023. It seems to be almost halved. This is good, but how did this happen?
 
 <img src="simple_barchart.png">
 
-What the mayor has done
+The government of San Fransico has an answer to this. The SF gov has stated the following on the 4th of January 2024:
+"*Local law enforcement has been conducting ongoing strategic operations to disrupt car break-ins and retail theft citywide, and to heighten safety efforts in shopping areas during the holidays.*"
+"*The reductions in larceny theft reached lows not seen in the last five years, including during the pandemic.*"
+
+This makes sense with our current overall assessment in terms of explaining the fall in larceny theft in the holiday season of 2023 and our assessment regarding 2020. So based on this we know that the talks about a decrease in larcency theft seems to be true in the overall picture.
 
 
 <div style="border-bottom: 1px solid #000; margin: 20px 0;"></div>
 
-### What is going on with Larcency Theft in SF?
-Snakke om district niveau
-
-Kort
+### What is really going on with Larcency Theft inside SF?
+In order to get a better understanding of this decrease we need to dig deeper. We can do this by looking at larcency theft from a district perspecive. In the interactive map below 
 <embed type="text/html" src="/GEOMap.html" width="1000" height="700">
 
 Tydeliggøre specifikke fund fra kort
