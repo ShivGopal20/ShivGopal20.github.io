@@ -37,18 +37,18 @@ The questions is wether or not the reasoning for this the new approach my the SF
 
 
 ### Is it only larcency theft?
-If the improved effort has decreases larcency 
-Other crime types in the holidays
+If the improved effort has decreased larcency theft in SF, then what about other similar crimes? In order to look more into that we have made another interactive figure below over different types of similar crimes. Here it is clear again that in terms of the holiday season, 2023 has improved in terms of almost all the crime types and the effort of the SF goverment and law enforcement is clear. 
+
+<embed type="text/html" src="/Interactive_barchart4.html" width="1000" height="700">
+
+As earlier we have made an annual interactive figure, and this showcases a small difference so this further showcases that it is really the efforrt in the holiday season which has worked well.
 <embed type="text/html" src="/Interactive_barchart3.html" width="1000" height="700">
 
-Other crime types throughout year
-<embed type="text/html" src="/Interactive_barchart4.html" width="1000" height="700">
 
 <div style="border-bottom: 1px solid #000; margin: 20px 0;"></div>
 
 ### Conclusion
-right direction in some districts, could be even better.
-
+Overall it seems like the effort by the SF Goverment has been a success in the holiday season in terms of many crime types and many districts and it might be a good idea to do similar efforts throughout the year to combat the crime and improve of the city again. 
 <div style="border-bottom: 1px solid #000; margin: 20px 0;"></div>
 
 ### Contribution
@@ -60,6 +60,4 @@ We have worked together when making the whole assignment and thereby we say that
 - [SF Crime Data 2003-2018](https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-Historical-2003/tmnf-yvry/about_data)
 - [Bokeh Pie Charts](https://docs.bokeh.org/en/latest/docs/user_guide/topics/pie.html)
 - [Map coordinates for Police Districts in San Francisco - geojson](https://raw.githubusercontent.com/suneman/socialdata2022/main/files/sfpd.geojson)
-- [About prostitution in San Francisco](https://localnewsmatters.org/2023/08/17/sex-work-and-the-city-policing-prostitution-in-san-francisco-reflects-evolving-attitudes/)
-- [Another perspective in prostitution](https://www.sfgate.com/business/article/Call-girl-business-high-pay-brief-career-3224048.php)
-- [Tech Boom - Gentrification](https://www.nytimes.com/2012/06/05/us/san-francisco-tech-boom-brings-jobs-and-worries.html)
+- [San Francisco goverment about decrease in Larcency Theft](https://www.sf.gov/news/san-francisco-enforcement-and-activations-lead-decrease-theft-citywide-increase-visitors)
