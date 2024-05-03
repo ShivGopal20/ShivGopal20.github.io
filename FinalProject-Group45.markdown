@@ -23,10 +23,8 @@ What the mayor has done
 Snakke om district niveau
 
 Kort
-<embed type="text/html" src="/GEOMap.html" width="1000" height="700">
-
 <div style="overflow-x: visible; width: 100%;">
-  <embed type="text/html" src="/GEOMap.html" style="position: relative; left: -5%; width: 1000px; height: 700px;">
+  <embed type="text/html" src="/GEOMap.html" style="position: relative; left: -20%; width: 1000px; height: 700px;">
 </div>
 
 
