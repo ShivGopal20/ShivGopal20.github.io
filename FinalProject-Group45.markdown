@@ -36,11 +36,11 @@ The question is whether or not the reason for this improvement is the new approa
 <div style="border-bottom: 1px solid #000; margin: 20px 0;"></div>
 
 ### Is it only larcency theft?
-If the improved effort has decreased larcency theft in SF, then what about other similar crimes? In order to look more into that we have made another interactive figure below over different types of similar crimes. Here it is clear that in terms of the holiday season in 2023, there has been significant improvements in almost all the crime types from 2022 to 2023, excect for robbery. The further shows that the effort of the SF goverment and law enforcement is doing something good for the city. 
+If the improved effort has decreased larceny theft in SF, what about other similar crimes? To look more into that, we have made another interactive figure below showing different types of similar crimes. Here, it is clear that in terms of the holiday season in 2023, there have been significant improvements in almost all the crime types from 2022 to 2023, except for robbery. This further shows that the effort of the SF government and law enforcement is doing something good for the city. 
 
 <embed type="text/html" src="/Interactive_barchart4.html" width="1000" height="700">
 
-As earlier we have made an annual interactive figure, and this showcases a small difference so this further showcases that it is really the effort in the holiday season which has worked well and been a big reason for the change. This can be seen because the change from 2022 to 2023, when we look at the whole year is a lot smaller than the change seen in terms of the holiday season between 2022 and 2023. 
+As mentioned earlier, we have created an annual interactive figure, which shows a small difference. This further underscores shows effectiveness of the holiday season efforts, which have proven to be a significant factor in the positive change. This can be seen in the comparison between the whole year of 2022 and 2023, where the change is relatively smaller than the change seen during the holiday season of 2022 and 2023. This good change should motivate the government to continue such initiatives. 
 
 <embed type="text/html" src="/Interactive_barchart3.html" width="1000" height="700">
 
