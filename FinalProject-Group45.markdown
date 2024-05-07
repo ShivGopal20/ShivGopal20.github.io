@@ -48,7 +48,7 @@ As earlier we have made an annual interactive figure, and this showcases a small
 <div style="border-bottom: 1px solid #000; margin: 20px 0;"></div>
 
 ### Conclusion
-Overall, it seems like the effort by the SF government has been a success. This can be seen because we know the effort took place in the holiday season in 2023, and this is an outliner in the data regarding the low amount of larceny theft and similar crimes. This improvement is clear across districts as well. Based on this information and the improvement between 2022 and 2023, which is a lot less when looking at the whole year instead of the holiday season, it might be a good idea to make similar efforts throughout the year to combat crime and improve the city. 
+Overall, it seems like the effort by the SF government has been a success. This can be seen because we know the effort took place in the holiday season in 2023, and this time period is an outliner in the data regarding the low amount of larceny theft and similar crimes. This improvement is clear across districts as well. We can however see that the improvement between 2022 and 2023, without looking at the holiday season, is less compared to the improvement in the holiday season. This shows that it would be a good idea for the city to make similar efforts throughout the year to combat crime and improve the city. 
 <div style="border-bottom: 1px solid #000; margin: 20px 0;"></div>
 
 ### Contribution
