@@ -2,10 +2,10 @@
 layout: default
 ---
 
-# Are holidays in San Francisco becoming better?
+# Is the holiday season in San Francisco becoming better?
 **Authors:** Rohan Khalid and Shiv Gopal
 
-San Francisco is a city known for many things. This includes The Golden Gate Bridge, the architecture and its hilly terrain. Even though San Francisco is known for its many good qualities, it is also known for crime. The crime happens all year round, but especially at a time when most people are focused on giving, while some people are focused on taking. We are talking about the holiday season when larceny and theft are very popular because people leave many possessions alone when spending time with their friends and family. Recently, there has been discussion about a decline in larceny/theft during the holiday season. We will now examine whether this is merely political rhetoric or if there is truth to these claims. 
+San Francisco is a city known for many things. This includes The Golden Gate Bridge, the architecture and its hilly terrain. Even though San Francisco is known for its many good qualities, it is also known for crime. The crime happens all year round, but especially at a time when most people are focused on giving, while some people are focused on taking. We are talking about the holiday season when larceny theft are very popular because people leave many possessions alone when spending time with their friends and family. Recently, there has been discussion about a decline in larceny theft during the holiday season. We will now examine whether this is merely political rhetoric or if there is truth to these claims. 
 
 <div style="border-bottom: 1px solid #000; margin: 20px 0;"></div>
 
@@ -53,7 +53,9 @@ Overall, it seems like the effort by the SF government has been a success. This 
 
 ### References
 
-- [SF Crime Data 2003-2018](https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-Historical-2003/tmnf-yvry/about_data)
-- [Bokeh Pie Charts](https://docs.bokeh.org/en/latest/docs/user_guide/topics/pie.html)
+- [SFPD Crime Data 2018-present](https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-2018-to-Present/wg3w-h783/about_data)
+- [Efforts from SFPD](https://www.sf.gov/news/san-franciscos-public-safety-efforts-deliver-results-decline-crime-rates)
 - [Map coordinates for Police Districts in San Francisco - geojson](https://raw.githubusercontent.com/suneman/socialdata2022/main/files/sfpd.geojson)
 - [San Francisco goverment about decrease in Larcency Theft](https://www.sf.gov/news/san-francisco-enforcement-and-activations-lead-decrease-theft-citywide-increase-visitors)
+- [Article about decrease in Larcency Theft](https://abc7news.com/sf-crime-san-francisco-union-square-sfpd/14269164/)
+- [Another article about decrease in holiday crime](https://www.nbcbayarea.com/news/local/san-francisco-decrease-holiday-crime/3412426/)
