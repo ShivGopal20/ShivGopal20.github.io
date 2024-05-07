@@ -5,7 +5,7 @@ layout: default
 # Is the holiday season in San Francisco becoming better?
 **Authors:** Rohan Khalid and Shiv Gopal
 
-Link to [explainer notebook](https://drive.google.com/file/d/1Djpf3D8LKjPyYWAB9UYIRkSF0QZJth0u/view?usp=sharing)
+Link to [explainer notebook](https://drive.google.com/file/d/1UP-mGVcR9K246iCXXXTBjtsZf1sbF_NF/view?usp=sharing)
 
 
 San Francisco is a city known for many things. This includes The Golden Gate Bridge, the architecture and its hilly terrain. Even though San Francisco is known for its many good qualities, it is also known for crime. The crime happens all year round, but especially at a time when most people are focused on giving, while some people are focused on taking. We are talking about the holiday season when larceny theft are very popular because people leave many possessions alone when spending time with their friends and family. Recently, there has been discussion about a decline in larceny theft during the holiday season. We will now examine whether this is merely political rhetoric or if there is truth to these claims. 
