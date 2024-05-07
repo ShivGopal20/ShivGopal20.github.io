@@ -30,7 +30,7 @@ The statements by the city of San Francisco align with our overall assessment, p
 We need to dig deeper to understand this decrease better. We can do this by looking at larceny theft from a district perspective, as shown on the interactive map below. The improvement mentioned before is quite visible for almost all districts. However, the District "Central" seems to have remained relatively similar throughout the years. 
 <embed type="text/html" src="/GEOMap.html" width="1000" height="700">
 
-Even though it might seem like Central still has the same number of incidents throughout the years, this is far from the case seen by holding the mouse over the District and looking at the numbers of incidents throughout the years. This can also be seen from another figure showing the same thing but in another way. The interactive figure below shows that all districts are significantly lower in terms of several larceny theft incidents, even in Central. This is rather good news.
+Even though it might seem like Central still has the same number of incidents throughout the years, this is far from the case seen by holding the mouse over the District and looking at the numbers of incidents throughout the years. This can also be seen from another figure showing the same thing but in another way. The interactive figure below shows that all districts are significantly lower in terms of larceny theft incidents, even in Central. This is rather good news.
 <embed type="text/html" src="/Interactive_barchart1.html" width="1000" height="700">
 
 The question is whether or not the reason for this improvement is the new approach by the SF Gov. A way to check this is to do annual comparisons from 2018 to 2023 without focusing on holidays. This will show us if there has been less larceny theft in 2023 compared to other years or if it is just the holiday season, which has changed due to the increased effort by the government. The interactive figure below shows that 2023 seems better than the previous year, but the difference is not even close to the improvement in the holiday period between 2022 and 2023. This shows that the improved effort in the holiday season by the SF government is likely the reason for the decrease in 2023.
@@ -43,7 +43,7 @@ If the improved effort has decreased larceny theft in SF, what about other simil
 
 <embed type="text/html" src="/Interactive_barchart4.html" width="1000" height="700">
 
-As mentioned earlier, we have created an annual interactive figure, which shows a small difference. This further underscores shows effectiveness of the holiday season efforts, which have proven to be a significant factor in the positive change. This can be seen in the comparison between the whole year of 2022 and 2023, where the change is relatively smaller than the change seen during the holiday season of 2022 and 2023. This good change should motivate the government to continue such initiatives. 
+As earlier, we have created an annual interactive figure, which shows a small difference. This further underscores shows effectiveness of the holiday season efforts, which have proven to be a significant factor in the positive change. This can be seen in the comparison between the whole year of 2022 and 2023, where the change is relatively smaller than the change seen during the holiday season of 2022 and 2023. This good change should motivate the government to continue such initiatives. 
 
 <embed type="text/html" src="/Interactive_barchart3.html" width="1000" height="700">
 
